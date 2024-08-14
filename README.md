@@ -1,21 +1,20 @@
-# 👋 Hi, I'm [Dilumi Charuka](https://www.linkedin.com/in/dilumi-charuka-amarasinghe/)
-Welcome to my GitHub profile! I'm a passionate Software Engineering undergraduate from NIBM, eager to dive into the world of UI/UX Engineering. Here's a bit more about me:
+# 👋 Hi, I’m [@DilumiCharuka](https://www.linkedin.com/in/dilumi-charuka-amarasinghe/)
+Welcome to my GitHub profile! I'm a Software Engineering undergraduate from NIBM, and I'm passionate about UI/UX Engineering.
 
-## 👀 Interests
-- **UI/UX Design:** Crafting intuitive and visually appealing interfaces.
+## 👀 I’m interested in
+- **UI/UX Design:** Creating user-friendly and visually appealing interfaces.
 - **Web Development:** Building responsive and dynamic websites.
-- **Mobile App Design:** Creating seamless experiences on mobile platforms.
-- **User Research:** Understanding users to create better products.
+- **Mobile App Development:** Designing seamless experiences for mobile users.
+- **User Research:** Understanding user needs to drive design decisions.
 
-## 🌱 Currently Learning
-- **Figma:** Mastering design tools to bring my UI/UX visions to life.
-- **Adobe XD:** Exploring advanced prototyping and design techniques.
-- **React:** Enhancing my front-end development skills.
-- **CSS Animations:** Adding a touch of magic to user interfaces.
+## 🌱 I’m currently learning
+- **Figma & Adobe XD:** Enhancing my design and prototyping skills.
+- **React:** Improving my front-end development expertise.
+- **CSS Animations:** Adding engaging animations to interfaces.
 
-## 💞️ Looking to Collaborate On
-- **UI/UX Projects:** If you need a hand with user interface or experience design, I'm here to help!
-- **Open Source Projects:** Especially those focusing on web or mobile app development.
+## 💞️ I’m looking to collaborate on
+- **UI/UX Projects:** I'm excited to work on projects that require creative design solutions.
+- **Open Source Projects:** Particularly those focused on front-end development or user experience.
 
 ## 🛠 Tools & Technologies
 - **Design Tools:** Figma, Adobe XD, Sketch
@@ -24,16 +23,17 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering undergraduat
 - **Version Control:** Git, GitHub
 - **Databases:** Firebase, MongoDB
 
-## 📫 How to Reach Me
-- **LinkedIn:** [Dilumi Charuka Amarasinghe](https://www.linkedin.com/in/dilumi-amarasinghe-6358882a4/)
-- **Email:** [charukadilumi113@gmail.com]charukadilumi113@gmail.com)
+## 📫 How to reach me
+- **LinkedIn:** [Dilumi Charuka Amarasinghe](https://www.linkedin.com/in/dilumi-charuka-amarasinghe/)
+- **Email:** [dilumicharuka@example.com](mailto:dilumicharuka@example.com)
 
 ## 😄 Pronouns
 - **She/Her**
 
-## ⚡ Fun Fact
-- I believe that great design is the key to a successful product, and I'm always on the lookout for new inspiration—from nature, art, and even everyday experiences.
+## ⚡ Fun fact
+- I'm always looking for new inspiration in art, nature, and everyday experiences to influence my design work.
 
 ---
 
-> **"Design is not just what it looks like and feels like. Design is how it works."** - *Steve Jobs*
+> **"Design is intelligence made visible."** - *Alina Wheeler*
+
