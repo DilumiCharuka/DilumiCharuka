@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Software Engineering undergraduate from NIBM
 
 ## 📫 How to reach me
 - **LinkedIn:** [Dilumi Charuka Amarasinghe]([https://www.linkedin.com/in/dilumi-charuka-amarasinghe/](https://www.linkedin.com/in/dilumi-amarasinghe-6358882a4/))
-- **Email:** [dilumicharuka@example.com](mailto:dilumicharuka@example.com)
+- **Email:** [charukadilumi113@gmail.com](mailto:dilumicharuka@example.com)
 
 ## 😄 Pronouns
 - **She/Her**
