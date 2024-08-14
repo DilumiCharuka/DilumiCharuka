@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a Software Engineering undergraduate from NIBM
 - **Databases:** Firebase, MongoDB
 
 ## 📫 How to reach me
-- **LinkedIn:** [Dilumi Charuka Amarasinghe]([https://www.linkedin.com/in/dilumi-charuka-amarasinghe/](https://www.linkedin.com/in/dilumi-amarasinghe-6358882a4/))
-- **Email:** [charukadilumi113@gmail.com](mailto:dilumicharuka@example.com)
+- **LinkedIn:** [Dilumi Charuka Amarasinghe](https://www.linkedin.com/in/dilumi-amarasinghe-6358882a4/)
+- **Email:** charukadilumi113@gmail.com
 
 ## 😄 Pronouns
 - **She/Her**
