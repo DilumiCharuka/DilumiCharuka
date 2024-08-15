@@ -1,20 +1,10 @@
 # 👋 Hi, I’m [@DilumiCharuka](https://www.linkedin.com/in/dilumi-charuka-amarasinghe/)
 Welcome to my GitHub profile! I'm a Software Engineering undergraduate from NIBM, and I'm passionate about UI/UX Engineering.
 
-## 👀 I’m interested in
-- **UI/UX Design:** Creating user-friendly and visually appealing interfaces.
-- **Web Development:** Building responsive and dynamic websites.
-- **Mobile App Development:** Designing seamless experiences for mobile users.
-- **User Research:** Understanding user needs to drive design decisions.
-
-## 🌱 I’m currently learning
-- **Figma & Adobe XD:** Enhancing my design and prototyping skills.
-- **React:** Improving my front-end development expertise.
-- **CSS Animations:** Adding engaging animations to interfaces.
-
-## 💞️ I’m looking to collaborate on
-- **UI/UX Projects:** I'm excited to work on projects that require creative design solutions.
-- **Open Source Projects:** Particularly those focused on front-end development or user experience.
+## 👀 About Me
+- 🌱 I’m currently learning: **UI/UX Design**, **Web Development**, and **Mobile App Development**.
+- 👀 I’m interested in: **UI/UX Engineering**, **Front-End Development**, and **Creative Design**.
+- 💞️ I’m looking to collaborate on: **Web and Mobile App Projects** that need a touch of great design and user experience.
 
 ## 🛠 Tools & Technologies
 - **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
