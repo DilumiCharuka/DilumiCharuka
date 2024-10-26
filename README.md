@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [@DilumiCharuka](https://www.linkedin.com/in/dilumi-charuka-amarasinghe/)
-Welcome to my GitHub profile! I'm a Software Engineering undergraduate from NIBM, and I'm passionate about UI/UX Engineering.
+Welcome to my GitHub profile! I'm a Software Engineering undergraduate from NIBM.
 
 ## 👀 I’m interested in
 - **UI/UX Design:** Crafting user-centric and aesthetically pleasing interfaces.
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Software Engineering undergraduate from NIBM
 - **Frameworks & Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 - **Design Tools:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white)
 - **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- **Database:** ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+- **Database:** ![MySQL](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ## 📫 How to reach me
 - **LinkedIn:** [Dilumi Charuka Amarasinghe](https://www.linkedin.com/in/dilumi-amarasinghe-6358882a4/)
